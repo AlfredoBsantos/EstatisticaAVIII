@@ -59,7 +59,7 @@ jupyter notebook
 ```
 Isso abrirá uma aba no seu navegador. Basta clicar no arquivo Analise_Estatistica_Imoveis.ipynb para abri-lo e executar as células.
 
-Autores
+Autor
 Alfredo Henrique Silveira Bezerra dos Santos
 
 ##Link da apresentacao do Youtube
