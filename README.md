@@ -62,7 +62,12 @@ Isso abrirá uma aba no seu navegador. Basta clicar no arquivo Analise_Estatisti
 Autor
 Alfredo Henrique Silveira Bezerra dos Santos
 
-##Link da apresentacao do Youtube
+## Apresentação em Vídeo
+Uma apresentação em vídeo completa, guiando por toda a análise e resultados do projeto, está disponível no YouTube.
+
+[Clique aqui para assistir à apresentação no YouTube](https://www.youtube.com/watch?v=VnC0YGGu2O0)
+
+Autores
 
 
 
