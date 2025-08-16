@@ -67,7 +67,7 @@ Uma apresentação em vídeo completa, guiando por toda a análise e resultados 
 
 [Clique aqui para assistir à apresentação no YouTube](https://www.youtube.com/watch?v=VnC0YGGu2O0)
 
-Autores
+
 
 
 
