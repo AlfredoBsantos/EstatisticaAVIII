@@ -4,7 +4,7 @@
 
 Este repositório contém a análise estatística desenvolvida para a disciplina **TAD0022 - Estatística Aplicada**, do curso de Análise e Desenvolvimento de Sistemas da Escola Agrícola de Jundiaí (UFRN).
 
-[cite_start]O projeto consiste na análise de uma base de dados sobre os preços de imóveis na Califórnia[cite: 4], com o objetivo de explorar os dados, identificar os fatores que influenciam o valor mediano dos imóveis e desenvolver um modelo preditivo. [cite_start]A análise segue um roteiro estruturado que inclui a verificação e tratamento dos dados [cite: 19, 21][cite_start], análise de distribuições [cite: 23][cite_start], avaliação de correlação [cite: 25][cite_start], elaboração de testes de hipóteses [cite: 27][cite_start], comparação de médias com ANOVA [cite: 29] [cite_start]e o desenvolvimento de um modelo de regressão[cite: 30].
+O projeto consiste na análise de uma base de dados sobre os preços de imóveis na Califórnia[cite: 4], com o objetivo de explorar os dados, identificar os fatores que influenciam o valor mediano dos imóveis e desenvolver um modelo preditivo. A análise segue um roteiro estruturado que inclui a verificação e tratamento dos dados, análise de distribuições, avaliação de correlação, elaboração de testes de hipóteses , comparação de médias com ANOVA e o desenvolvimento de um modelo de regressão.
 
 ## Estrutura do Repositório
 
@@ -16,7 +16,7 @@ O projeto está organizado da seguinte forma:
 └── README.md
 ```
 * **`Analise_Estatistica_Imoveis.ipynb`**: Notebook Jupyter contendo todo o código Python, as análises, os testes estatísticos e a geração dos gráficos.
-* [cite_start]**`relatorio/`**: Pasta que contém o relatório final do projeto em formato PDF, redigido segundo as normas da ABNT[cite: 8].
+* **`relatorio/`**: Pasta que contém o relatório final do projeto em formato PDF, redigido segundo as normas da ABNT.
 * **`README.md`**: Este arquivo, com a descrição e instruções para o projeto.
 
 ## Como Executar o Projeto
